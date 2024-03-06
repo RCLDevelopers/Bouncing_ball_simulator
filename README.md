@@ -19,4 +19,4 @@ python3 ball_bounce.py
 
 ## *Author Name*
 <!--Remove the below lines and add yours -->
-Ayush Shaw
+Zangtics Digital
